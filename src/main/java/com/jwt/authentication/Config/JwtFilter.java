@@ -1,6 +1,5 @@
 package com.jwt.authentication.Config;
 
-import com.jwt.authentication.Service.JWTService;
 import com.jwt.authentication.Service.MyUserDetailsService;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
